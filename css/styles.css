@@ -13,7 +13,7 @@ h2 {text-align: center;
                background-size: cover;
                background-repeat: no-repeat
 }
-h3 {color: yellowgreen;
+h3 {color: red;
     text-align: left;
     font-style: italic;
     text-align: center;
@@ -31,6 +31,7 @@ li {list-style-type: upper-roman;
         }
 .instrument{float: right;
 }
-.technology {background-color: antiquewhite;
+p.technology {color: red;
+}
 }         
                
